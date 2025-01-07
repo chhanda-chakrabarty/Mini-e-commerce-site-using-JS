@@ -1,0 +1,14 @@
+{
+  "name": "mini-e-commerce-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "Chhanda",
+  "license": "ISC",
+  "description": "Mini E-commerce website",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
